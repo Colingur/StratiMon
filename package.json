@@ -5,9 +5,9 @@
   "description": "Launcher cobblemon moddé",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) et Colingur",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/stratimon",
+  "homepage": "https://github.com/Colingur/StratiMon",
   "bugs": {
-    "url": "https://github.com/dscalzi/stratimon/issues"
+    "url": "https://github.com/Colingur/StratiMon/issues"
   },
   "private": true,
   "main": "index.js",
