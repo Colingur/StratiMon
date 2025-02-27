@@ -1,7 +1,7 @@
 [ejs.landing]
 updateAvailableTooltip = "Mise à jour disponible"
 usernamePlaceholder = "Nom d'utilisateur"
-usernameEditButton = "Modofier"
+usernameEditButton = "Modifier"
 settingsTooltip = "Option"
 serverStatus = "Serveur"
 serverStatusPlaceholder = "Hors ligne"
